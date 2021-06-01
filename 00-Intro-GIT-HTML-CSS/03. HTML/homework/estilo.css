@@ -1,0 +1,41 @@
+body{
+    background-image: url(https://i2.wp.com/architecnologia.es/wp-content/uploads/2019/08/c-lenguaje-programacion.jpg?resize=800%2C445&ssl=1);
+}
+.right{
+    background: #e3ece7;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 10px;
+    padding: 30px;
+    border-radius: 10px;
+}
+.right p{
+    text-align: justify;
+    padding: 5px;
+    width: 80%;
+    margin-left: 5%;
+}
+.right h4{
+    text-underline-offset: auto;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.left{
+    display: flex;
+    justify-content: center;
+    background: #e3ece7;
+    margin-top: 5%;
+    margin-left: 10%;
+    margin-right: 10%;
+    border-radius: 10px;
+}
+.left div{
+    flex-direction: row;
+    justify-content: center;
+    
+}
+img{
+    padding-left: 5px;
+    padding-right: 10px;
+    width: 150px;
+    height: 200px;
+}

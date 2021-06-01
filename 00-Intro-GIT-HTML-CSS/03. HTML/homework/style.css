@@ -1,0 +1,31 @@
+#thirdDiv{
+    height: 600px;
+    width: 500px;
+    background: blueviolet;
+    border: 3px solid black;
+}
+.divClass{
+    display: flex;    
+    justify-content: center;
+    padding: 50px;
+    background-image: url("https://steamuserimages-a.akamaihd.net/ugc/940586530515504757/CDDE77CB810474E1C07B945E40AE4713141AFD76/");
+    color: antiquewhite;
+    
+}
+.divClass h1{
+    color: aqua;  
+}
+.divClass h3{
+    
+    display: inline;
+    
+}
+#spanId{
+    display: flexbox;
+    size: 18px;
+    margin: 50px;
+}
+
+img{
+    width: 400px;
+}
